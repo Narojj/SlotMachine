@@ -1,11 +1,3 @@
-// Deposit money
-// # of line to bet on
-// Collect a bet amount
-// Spin the slot
-// Check if user one
-// give user their winning or collect earnings
-// play again
-
 const prompt = require("prompt-sync")();
 
 const ROWS = 3;
